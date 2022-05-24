@@ -1,0 +1,80 @@
+
+
+/* New Bootstrap code */
+.my-menu li a{
+    font-size: 20px;
+    font-weight: 700;
+}
+.my-icon{
+    padding: 15px;
+}
+.my-icon i {
+    padding: 10px;
+    font-size: 16px;
+}
+.my-icon i:first-child{
+    border-right: 1px solid gray;
+}
+
+.my-details p {
+    font-weight: 700;
+}
+
+.my-details p:last-child{
+    margin-top: -10px !important;
+}
+
+.my-btn {
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+.hero-sec{
+    height: 100vh;
+    background: url('assetes/images/main-banner2.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.hero-wrap{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.hero-social ul{
+    display: flex;
+    position: absolute;
+    left: 0%;
+    bottom: 0%;
+}
+.hero-details p:first-child{
+    font-size: 25px;
+    color: red;
+}
+.hero-details p{
+    font-size: 20px;
+}
+.hero-details h1{
+    font-weight: 700;
+}
+.hero-details .loans-details{
+    font-size: 68px;
+    color: rgb(45, 54, 46);
+}
+.hero-social ul li {
+    list-style: none;
+}
+.hero-social ul li span{
+    font-size: 18px;
+    font-weight: 600;
+}
+.hero-social ul li a{
+    padding: 0 15px;
+    color: black;
+}
+.dash-icon{
+    padding: 0 10px;
+}
+.dash-icon i{
+    font-size: 30px;
+}

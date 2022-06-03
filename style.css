@@ -48,7 +48,7 @@
     bottom: 0%;
 }
 .hero-details p:first-child{
-    font-size: 25px;
+    font-size: 18px;
     color: red;
 }
 .hero-details p{
@@ -58,7 +58,7 @@
     font-weight: 700;
 }
 .hero-details .loans-details{
-    font-size: 68px;
+    font-size: 40px;
     color: rgb(45, 54, 46);
 }
 .hero-social ul li {
@@ -77,4 +77,12 @@
 }
 .dash-icon i{
     font-size: 30px;
+}
+
+.slider-section{
+    padding: 100px 0;
+    ;
+}
+.slider-section .slider-img img{
+    padding:20px;
 }
